@@ -537,36 +537,15 @@
   <P><A
       name="broadbandNoiseGoldstein.SegregatedSkeTest.../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testResidualsPlot/ResidualsPlot.png"></A>
   <H5>testResidualsPlot:</H5><IMG
-    src="https://tutorial.cuchuoicon.com/VerificationData/broadbandNoiseGoldstein/user/broadbandNoiseGoldstein.SegregatedSkeTest/testResidualsPlot/ResidualsPlot.png"></P>
+    src="/ResidualsPlot.png"></P>
   <P><A
       name="broadbandNoiseGoldstein.SegregatedSkeTest.../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testUVelocityProfile/u_componentProfile.png"></A>
  
   <H5>testGoldsteinAcousticPowerProfile:</H5><IMG
-    src="https://tutorial.cuchuoicon.com/VerificationData/broadbandNoiseGoldstein/user/broadbandNoiseGoldstein.SegregatedSkeTest/testGoldsteinAcousticPowerProfile/Goldstein_AP_dBProfile.png">
+    src="/Goldstein_AP_dBProfile.png">
   </P>
   <P><A
       name="broadbandNoiseGoldstein.SegregatedSkeTest.../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testContinuityConvergence/Continuity.png"></A>
-
-<!--       
-  <H5>testContinuityConvergence:</H5><IMG
-    src="../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testContinuityConvergence/Continuity.png"></P>
-  <P><A
-      name="broadbandNoiseGoldstein.SegregatedSkeTest.../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testXMomentumConvergence/X_momentum.png"></A>
-  <H5>testXMomentumConvergence:</H5><IMG
-    src="../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testXMomentumConvergence/X_momentum.png"></P>
-  <P><A
-      name="broadbandNoiseGoldstein.SegregatedSkeTest.../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testYMomentumConvergence/Y_momentum.png"></A>
-  <H5>testYMomentumConvergence:</H5><IMG
-    src="../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testYMomentumConvergence/Y_momentum.png"></P>
-  <P><A
-      name="broadbandNoiseGoldstein.SegregatedSkeTest.../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testTkeConvergence/Tke.png"></A>
-  <H5>testTkeConvergence:</H5><IMG
-    src="../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testTkeConvergence/Tke.png"></P>
-  <P><A
-      name="broadbandNoiseGoldstein.SegregatedSkeTest.../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testTdrConvergence/Tdr.png"></A>
-  <H5>testTdrConvergence:</H5><IMG
-    src="../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testTdrConvergence/Tdr.png"></P>
-  <P><BR></P> -->
 </BODY>
 
 </HTML>
