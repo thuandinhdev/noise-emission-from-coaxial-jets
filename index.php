@@ -250,33 +250,6 @@
     }
   </script>
   <H2>Test Suite broadbandNoiseGoldstein.SegregatedSkeTest</H2>
-  <P>
-  <H3>Summary:</H3>
-  <TABLE width="95%" cellspacing="2" cellpadding="5" border="0">
-    <TR valign="top" bgcolor="#A6CAF0">
-      <TD><B>Total tests</B></TD>
-      <TD><B>Expected Passes</B></TD>
-      <TD><B>Unexpected Passes</B></TD>
-      <TD><B>Expected Fails</B></TD>
-      <TD><B>Unexpected Fails</B></TD>
-      <TD><B>Errors</B></TD>
-      <TD><B>Success Rate</B></TD>
-      <TD><B>Run(when)</B></TD>
-      <TD><B>Time(ms)</B></TD>
-    </TR>
-    <TR class="pass">
-      <TD>15</TD>
-      <TD>15</TD>
-      <TD>0</TD>
-      <TD>0</TD>
-      <TD>0</TD>
-      <TD>0</TD>
-      <TD>100.00%</TD>
-      <TD>2023-01-25 12:21:40.195</TD>
-      <TD>84803</TD>
-    </TR>
-  </TABLE>
-  </P>
   <HR>
   <P>
   <H3>Individual Tests:</H3>
