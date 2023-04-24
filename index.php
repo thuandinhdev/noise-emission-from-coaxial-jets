@@ -519,11 +519,11 @@
   </P>
   <P><A
       name="broadbandNoiseGoldstein.SegregatedSkeTest.../../user/broadbandNoiseGoldstein.SegregatedSkeTest/testContinuityConvergence/Continuity.png"></A>
-<p style="margin-bottom: 20px; margin-top: 10px;">The test case is tested under the condition that the second nozzles are 52 m/s. The line is 0.07 m from the axis.
+<p >The test case is tested under the condition that the second nozzles are 52 m/s. The line is 0.07 m from the axis.
       Reference, baseline, and comparison are experimental, analytical, and numerical results.
       The model and conditions can be referenced in the following documents:
-      [1] Juve D., Bataille J., Comte-Bellot G. (1978) Bruit de jets coaxiaux froids subsoniques, Journal de Mecanique Appliquee, Vol. 2, N. 3.
-      [2] Bechara W., Lafon P., Bailly C., Candel S.M. "Application of a K-epsilon Turbulence Model to the Prediction of Noise for Simple and Coaxial Free Jets", Acoustical Society of America, Vol. 97, Issue 6, pp. 3518-3531</p>
+      <p>[1] Juve D., Bataille J., Comte-Bellot G. (1978) Bruit de jets coaxiaux froids subsoniques, Journal de Mecanique Appliquee, Vol. 2, N. 3.</p>
+      <p>[2] Bechara W., Lafon P., Bailly C., Candel S.M. "Application of a K-epsilon Turbulence Model to the Prediction of Noise for Simple and Coaxial Free Jets", Acoustical Society of America, Vol. 97, Issue 6, pp. 3518-3531</p></p>
     </BODY>
 
 </HTML>
